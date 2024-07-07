@@ -1,0 +1,74 @@
+[
+  {
+    "Name": "Ayunda Risu",
+    "Image": "risu.png",
+    "Sound": "risu.mp3",
+    "Border": "risu-box.jpg", 
+    "Link": "https://www.youtube.com/@AyundaRisu",
+    "Desk": "Ayunda Risu adalah VTuber Indonesia yang merupakan bagian dari agensi Hololive ID. Debutnya pada tahun 2020 menandai awal dari kehadiran animasi dan interaktivitas yang menggemaskan dalam dunia daring. Risu dikenal dengan kecerdasannya serta tingkah polah yang lucu dan energik, yang sering kali mengejutkan dan menghibur penontonnya"
+  },
+  {
+    "Name": "Airani Iofifteen",
+    "Image": "iofi.png",
+    "Sound": "iofi.mp3",
+    "Border": "iofi-box.jpeg", 
+    "Link": "https://www.youtube.com/@AiraniIofifteen",
+    "Desk": "Airani Iofifteen, dikenal juga dengan nama Iofi, adalah VTuber Indonesia yang bergabung dengan Hololive ID. Debutnya menandai kehadiran kreativitas dan pesona yang unik dalam komunitas VTuber. Iofi sering menghadirkan konten-konten yang lucu dan menghibur, serta aktif berinteraksi dengan penggemar di berbagai platform."
+  },
+  {
+    "Name": "Moona Hoshinova",
+    "Image": "moona.png",
+    "Sound": "moona.mp3",
+    "Border": "moona-box.jpeg", 
+    "Link": "https://www.youtube.com/@MoonaHoshinova",
+    "Desk": "Moona Hoshinova adalah VTuber Indonesia di Hololive ID. Karakternya yang ceria dan bakat bermusiknya telah memikat banyak penggemar sejak debutnya. Moona sering menghadirkan konten kreatif yang mencakup musik dan gameplay, menambah warna dalam komunitas VTuber."
+  },
+  {
+    "Name": "Anya Melfissa",
+    "Image": "anya.png",
+    "Sound": "anya.mp3",
+    "Border": "anya-box.jpeg", 
+    "Link": "https://www.youtube.com/@AnyaMelfissa",
+    "Desk": "Anya Melfissa adalah VTuber Indonesia yang bergabung dengan Hololive ID. Dengan kepribadiannya yang hangat dan bakat bermusiknya, Anya telah memikat hati penggemar dengan konten-konten yang menghibur dan interaktif. Anya sering menghadirkan acara-acara yang menyenangkan dan mendekatkan diri dengan komunitasnya."
+  },
+  {
+    "Name": "Kureiji Ollie",
+    "Image": "ollie.png",
+    "Sound": "ollie.mp3",
+    "Border": "ollie-box.jpeg", 
+    "Link": "https://www.youtube.com/@KureijiOllie",
+    "Desk": "Kureiji Ollie adalah VTuber Indonesia yang menghadirkan semangat dan keceriaan dalam Hololive ID. Debutnya di dunia VTuber dipenuhi dengan konten-konten yang menghibur dan interaktif. Ollie dikenal dengan kepribadiannya yang menggemaskan dan komunitasnya yang semakin bertumbuh."
+  },
+  {
+    "Name": "Pavolia Reine",
+    "Image": "reine.png",
+    "Sound": "reine.mp3",
+    "Border": "reine-box.jpeg", 
+    "Link": "https://www.youtube.com/@PavoliaReine",
+    "Desk": "Reine Kageyama adalah VTuber dari Hololive ID. Dengan pesona yang tenang dan kecerdasan yang mengesankan, Reine telah menarik banyak penggemar dengan konten-konten yang reflektif dan interaktif. Reine aktif dalam berbagai kegiatan komunitas yang menginspirasi."
+  },
+  {
+    "Name": "Kobo Kanaeru",
+    "Image": "kobo.png",
+    "Sound": "kobo.mp3",
+    "Border": "kobo-box.jpeg", 
+    "Link": "https://www.youtube.com/@KoboKanaeru",
+    "Desk": "Kobo Kanaeru, atau lebih dikenal dengan nama Kobo, adalah VTuber dari Hololive ID. Dia dikenal dengan energi dan kreativitasnya yang menghibur dalam konten-konten VTuber. Ollie sering menghadirkan acara-acara yang menarik dan interaktif, memperkuat ikatan dengan penggemarnya di seluruh dunia."
+  },
+  {
+    "Name": "Vestia Zeta",
+    "Image": "zeta.png",
+    "Sound": "zeta.mp3",
+    "Border": "zeta-box.jpeg", 
+    "Link": "https://www.youtube.com/@VestiaZeta",
+    "Desk": "Vestia Zeta, atau lebih dikenal dengan nama Zeta, adalah VTuber dari Hololive ID. Dia dikenal dengan energi dan kreativitasnya yang menghibur dalam konten-konten VTuber. Ollie sering menghadirkan acara-acara yang menarik dan interaktif, memperkuat ikatan dengan penggemarnya di seluruh dunia."
+  },
+  {
+    "Name": "Kaela Kovalskia",
+    "Image": "kaela.png",
+    "Sound": "kaela.mp3",
+    "Border": "kaela-box.jpeg", 
+    "Link": "https://www.youtube.com/@KaelaKovalskia",
+    "Desk": "Kaela Kovalskia, atau lebih dikenal dengan nama Kaela, adalah VTuber dari Hololive ID. Dia dikenal dengan energi dan kreativitasnya yang menghibur dalam konten-konten VTuber. Ollie sering menghadirkan acara-acara yang menarik dan interaktif, memperkuat ikatan dengan penggemarnya di seluruh dunia."
+  }
+]

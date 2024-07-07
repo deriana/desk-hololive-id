@@ -1,0 +1,62 @@
+.slider {
+    position: absolute;
+    left: 0px;
+    bottom: 100px;
+    width: 70px;
+    height: 70px;
+    background-color: rgba(255, 255, 255, 0.308) ;
+    backdrop-filter: blur(20px);
+    border: none;
+    border-radius: 0px 20px 20px 0px;
+    -webkit-border-radius: 0px 20px 20px 0px;
+    -moz-border-radius: 0px 20px 20px 0px;
+    -ms-border-radius: 0px 20px 20px 0px;
+    -o-border-radius: 0px 20px 20px 0px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    font-size: 2em;
+    color: rgba(255, 255, 255, 0.568);
+    transition: 0.9s;
+    -webkit-transition: 0.9s;
+    -moz-transition: 0.9s;
+    -ms-transition: 0.9s;
+    -o-transition: 0.9s;
+    overflow: hidden;
+}
+
+.fa-chevron-right {
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+/* .slider .slider-box {
+    display: none;
+} */
+
+.slider-box {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 10px;
+}
+.slider-box-img {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+    cursor: pointer;
+}
+
+
+.slider:hover {
+    transition: 0.9s;
+    width: 650px;
+    -webkit-transition: 0.9s;
+    -moz-transition: 0.9s;
+    -ms-transition: 0.9s;
+    -o-transition: 0.9s;
+}
