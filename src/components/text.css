@@ -1,6 +1,6 @@
 .text {
-    width: 300px;
-    padding: 15px;
+    width: 350px;
+    padding: 25px;
     color: white;
     height: auto;
     display: flex;
@@ -62,5 +62,35 @@ button:hover {
     align-items: center;
     justify-content: space-evenly;
     width: 100%;
-    gap: 30px   ;
+    gap: 20px;
 }
+
+.group {
+    cursor: default;
+    transition: 0.8s;
+    -webkit-transition: 0.8s;
+    -moz-transition: 0.8s;
+    -ms-transition: 0.8s;
+    -o-transition: 0.8s;
+}
+
+@keyframes glow {
+    0% {
+        text-shadow: 0 0 10px white, 0 0 20px white, 0 0 30px white, 0 0 40px #add8e6, 0 0 50px #add8e6, 0 0 60px #add8e6, 0 0 70px #add8e6;
+        color: white;
+    }
+    50% {
+        text-shadow: 0 0 20px #add8e6, 0 0 30px #add8e6, 0 0 40px #add8e6, 0 0 50px #add8e6, 0 0 60px #add8e6, 0 0 70px #add8e6, 0 0 80px #add8e6;
+        color: #add8e6;
+    }
+    100% {
+        text-shadow: 0 0 10px white, 0 0 20px white, 0 0 30px white, 0 0 40px #add8e6, 0 0 50px #add8e6, 0 0 60px #add8e6, 0 0 70px #add8e6;
+        color: white;
+    }
+}
+
+.group:hover {
+    scale: 1.2;
+    animation: glow 1.5s infinite alternate;
+}
+

@@ -3,72 +3,81 @@
     "Name": "Ayunda Risu",
     "Image": "risu.png",
     "Sound": "risu.mp3",
-    "Border": "risu-box.jpg", 
+    "Border": "risu-box.jpg",
     "Link": "https://www.youtube.com/@AyundaRisu",
-    "Desk": "Ayunda Risu adalah VTuber Indonesia yang merupakan bagian dari agensi Hololive ID. Debutnya pada tahun 2020 menandai awal dari kehadiran animasi dan interaktivitas yang menggemaskan dalam dunia daring. Risu dikenal dengan kecerdasannya serta tingkah polah yang lucu dan energik, yang sering kali mengejutkan dan menghibur penontonnya"
+    "Group": "AREA-15",
+    "Desk": "Ayunda Risu adalah anggota pertama Hololive Indonesia yang debut pada tanggal 10 April. Dia adalah seorang gadis squirrel yang berasal dari hutan ajaib dan tersesat di dunia manusia. Dia menggambarkan dirinya sebagai orang yang ceria, kikuk, dan penakut. Risu sangat mengagumi Inugami Korone dan ingin berkolaborasi dengannya."
   },
   {
     "Name": "Airani Iofifteen",
     "Image": "iofi.png",
     "Sound": "iofi.mp3",
-    "Border": "iofi-box.jpeg", 
+    "Border": "iofi-box.jpeg",
     "Link": "https://www.youtube.com/@AiraniIofifteen",
-    "Desk": "Airani Iofifteen, dikenal juga dengan nama Iofi, adalah VTuber Indonesia yang bergabung dengan Hololive ID. Debutnya menandai kehadiran kreativitas dan pesona yang unik dalam komunitas VTuber. Iofi sering menghadirkan konten-konten yang lucu dan menghibur, serta aktif berinteraksi dengan penggemar di berbagai platform."
+    "Group": "AREA-15",
+    "Desk": "Airani Iofifteen debut pada tanggal 12 April, sehari setelah Moona. Iofi adalah seorang alien yang ceria, terbuka, dan sangat menguasai budaya Indonesia, serta bahasa slang dan dialek regional. Iofi sedang menempuh pendidikan di jurusan Desain Komunikasi Visual dan sangat menyukai Visual Novel, Rythm, dan Gacha Games. Iofi juga sedang belajar bahasa Jerman dan Korea."
   },
   {
     "Name": "Moona Hoshinova",
     "Image": "moona.png",
     "Sound": "moona.mp3",
-    "Border": "moona-box.jpeg", 
+    "Border": "moona-box.jpeg",
     "Link": "https://www.youtube.com/@MoonaHoshinova",
-    "Desk": "Moona Hoshinova adalah VTuber Indonesia di Hololive ID. Karakternya yang ceria dan bakat bermusiknya telah memikat banyak penggemar sejak debutnya. Moona sering menghadirkan konten kreatif yang mencakup musik dan gameplay, menambah warna dalam komunitas VTuber."
+    "Group": "AREA-15",
+    "Desk": "Moona Hoshinova debut pada tanggal 11 April, sehari setelah Risu. Sebelum menjadi VTuber, Moona bekerja sebagai model. Pada debutnya, Moona mengalami masalah karena PC-nya rusak dan harus menggunakan laptop dan data seluler, sehingga streamnya terputus. Moona menyebut penggemarnya sebagai Moonafic, yang dalam bahasa Indonesia berarti munafik."
   },
   {
     "Name": "Anya Melfissa",
     "Image": "anya.png",
     "Sound": "anya.mp3",
-    "Border": "anya-box.jpeg", 
+    "Border": "anya-box.jpeg",
     "Link": "https://www.youtube.com/@AnyaMelfissa",
-    "Desk": "Anya Melfissa adalah VTuber Indonesia yang bergabung dengan Hololive ID. Dengan kepribadiannya yang hangat dan bakat bermusiknya, Anya telah memikat hati penggemar dengan konten-konten yang menghibur dan interaktif. Anya sering menghadirkan acara-acara yang menyenangkan dan mendekatkan diri dengan komunitasnya."
+    "Group": "HOLO NIJI",
+    "Desk": "Anya adalah anggota Hololive ID yang dikenal karena mencoba menerjemahkan bahasa birb yang digunakan oleh salah satu viewer. Anya memiliki kepribadian yang sangat ceria dan sering membuat konten yang sangat menghibur. Dia juga memiliki kemampuan bermain game yang sangat baik dan sering bermain game dengan anggota Hololive lainnya. Anya juga dikenal karena kemampuan bernyanyinya yang sangat baik dan sering membuat konten yang berhubungan dengan musik."
   },
   {
     "Name": "Kureiji Ollie",
     "Image": "ollie.png",
     "Sound": "ollie.mp3",
-    "Border": "ollie-box.jpeg", 
+    "Border": "ollie-box.jpeg",
     "Link": "https://www.youtube.com/@KureijiOllie",
-    "Desk": "Kureiji Ollie adalah VTuber Indonesia yang menghadirkan semangat dan keceriaan dalam Hololive ID. Debutnya di dunia VTuber dipenuhi dengan konten-konten yang menghibur dan interaktif. Ollie dikenal dengan kepribadiannya yang menggemaskan dan komunitasnya yang semakin bertumbuh."
+    "Group": "HOLO NIJI",
+    "Desk": "Ollie adalah seorang gadis zombie SMA yang bangkit dari kuburnya. Dia pulang ke rumahnya, tetapi menemukan bahwa rumahnya telah berubah menjadi sebuah restoran ramen! Untuk merebut kembali rumahnya, Ollie memutuskan untuk menjadi seorang VTuber. Ollie memiliki kecenderungan untuk berteriak keras dan sangat hiperaktif. Dia juga dikenal karena kemampuan bermain game-nya yang sangat baik dan sering membuat konten yang sangat menghibur."
   },
   {
     "Name": "Pavolia Reine",
     "Image": "reine.png",
     "Sound": "reine.mp3",
-    "Border": "reine-box.jpeg", 
+    "Border": "reine-box.jpeg",
     "Link": "https://www.youtube.com/@PavoliaReine",
-    "Desk": "Reine Kageyama adalah VTuber dari Hololive ID. Dengan pesona yang tenang dan kecerdasan yang mengesankan, Reine telah menarik banyak penggemar dengan konten-konten yang reflektif dan interaktif. Reine aktif dalam berbagai kegiatan komunitas yang menginspirasi."
+    "Group": "HOLO NIJI",
+    "Desk": "Reine adalah anggota Hololive ID yang dikenal karena bahasanya yang tidak sopan. Dia juga dikenal karena mencoba menerjemahkan bahasa birb yang digunakan oleh salah satu viewer. Reine memiliki kepribadian yang sangat ceria dan sering membuat konten yang sangat lucu. Dia juga memiliki kemampuan bermain game yang sangat baik dan sering bermain game dengan anggota Hololive lainnya."
   },
   {
     "Name": "Kobo Kanaeru",
     "Image": "kobo.png",
     "Sound": "kobo.mp3",
-    "Border": "kobo-box.jpeg", 
+    "Border": "kobo-box.jpeg",
     "Link": "https://www.youtube.com/@KoboKanaeru",
-    "Desk": "Kobo Kanaeru, atau lebih dikenal dengan nama Kobo, adalah VTuber dari Hololive ID. Dia dikenal dengan energi dan kreativitasnya yang menghibur dalam konten-konten VTuber. Ollie sering menghadirkan acara-acara yang menarik dan interaktif, memperkuat ikatan dengan penggemarnya di seluruh dunia."
+    "Group": "HOLOH3RO",
+    "Desk": "Kobo adalah seorang gadis yang tinggal di atas menara mercu suar dan memiliki kemampuan untuk mengontrol hujan. Dia ingin memenangkan kembali gelar Rain Master dan membutuhkan strategi pemasaran virtual untuk berhasil. Kobo telah merilis beberapa lagu orisinal dan telah mencapai 2 juta subscriber di YouTube. Kobo memiliki kepribadian yang sangat ceria dan sering membuat konten yang sangat menghibur. Dia juga memiliki kemampuan bermain game yang sangat baik dan sering bermain game dengan anggota Hololive lainnya."
   },
   {
     "Name": "Vestia Zeta",
     "Image": "zeta.png",
     "Sound": "zeta.mp3",
-    "Border": "zeta-box.jpeg", 
+    "Border": "zeta-box.jpeg",
     "Link": "https://www.youtube.com/@VestiaZeta",
-    "Desk": "Vestia Zeta, atau lebih dikenal dengan nama Zeta, adalah VTuber dari Hololive ID. Dia dikenal dengan energi dan kreativitasnya yang menghibur dalam konten-konten VTuber. Ollie sering menghadirkan acara-acara yang menarik dan interaktif, memperkuat ikatan dengan penggemarnya di seluruh dunia."
+    "Group": "HOLOH3RO",
+    "Desk": "Vestia Zeta, atau lebih dikenal dengan nama Zeta, adalah VTuber dari Hololive ID. Dia dikenal dengan energi dan kreativitasnya yang menghibur dalam konten-konten VTuber. Zeta sering menghadirkan acara-acara yang menarik dan interaktif, memperkuat ikatan dengan penggemarnya di seluruh dunia. Dia memiliki kepribadian yang ceria dan kemampuan bermain game yang sangat baik."
   },
   {
     "Name": "Kaela Kovalskia",
     "Image": "kaela.png",
     "Sound": "kaela.mp3",
-    "Border": "kaela-box.jpeg", 
+    "Border": "kaela-box.jpeg",
     "Link": "https://www.youtube.com/@KaelaKovalskia",
-    "Desk": "Kaela Kovalskia, atau lebih dikenal dengan nama Kaela, adalah VTuber dari Hololive ID. Dia dikenal dengan energi dan kreativitasnya yang menghibur dalam konten-konten VTuber. Ollie sering menghadirkan acara-acara yang menarik dan interaktif, memperkuat ikatan dengan penggemarnya di seluruh dunia."
+    "Group": "HOLOH3RO",
+    "Desk": "Kaela adalah anggota Hololive ID yang debut bersama dengan Kobo dan Zeta. Dia memiliki kostum 3D yukata dan kostum 3D renang yang digunakan pada festival hololive summer 2023. Kaela memiliki kepribadian yang sangat ceria dan sering membuat konten yang sangat menghibur. Dia juga memiliki kemampuan bermain game yang sangat baik dan sering bermain game dengan anggota Hololive lainnya."
   }
 ]

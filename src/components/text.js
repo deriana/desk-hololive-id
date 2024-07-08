@@ -30,6 +30,7 @@ function Text({ character }) {
         </button>
         <h1 className="title">{character.Name}</h1>
       </div>
+      <h2 className="group">{character.Group  }</h2>
       <p>{character.Desk}</p>
     </div>
   );
