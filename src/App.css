@@ -3,6 +3,16 @@
   margin: 0;
 }
 
+body {
+  margin: 0;
+  font-family: Poppins;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-image: url(components/assets/bg.jpg);
+  /* background-size: cover;
+  background-position: center; */
+}
+
 main {
   display: flex;
   flex-direction: column;

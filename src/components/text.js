@@ -26,11 +26,11 @@ function Text({ character }) {
     <div className="text">
       <div className="title-box">
         <button onClick={togglePlay}>
-          <i className="fa-solid fa-music"></i>
+          <i class="fa-solid fa-microphone"></i>
         </button>
         <h1 className="title">{character.Name}</h1>
       </div>
-      <h2 className="group">{character.Group  }</h2>
+      <h2 className="group">{character.Group}</h2>
       <p>{character.Desk}</p>
     </div>
   );

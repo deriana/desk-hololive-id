@@ -3,6 +3,7 @@ import './App.css';
 import Container from './components/container';
 import Slider from './components/slider';
 import Header from './header';
+import Profile from './components/profile';
 
 function App() {
   const [selectedCharacter, setSelectedCharacter] = useState(null);
@@ -13,7 +14,7 @@ function App() {
     setAnimate(true);
     setTimeout(() => {
       setAnimate(false);
-    }, 500);
+    }, 550);
   };
 
   return (
@@ -21,6 +22,7 @@ function App() {
       <Header />
       <Container selectedCharacter={selectedCharacter} animate={animate} />
       <Slider onSelectCharacter={handleSelectCharacter} />
+      <Profile/>
     </main>
   );
 }
