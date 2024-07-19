@@ -33,3 +33,8 @@
     -ms-transform: scale(1.1    );
     -o-transform: scale(1.1    );
 }
+
+.chara {
+  filter: drop-shadow(20px 20px 20px rgb(255, 255, 255));
+  -webkit-filter: drop-shadow(20px 20px 20px rgb(255, 255, 255));
+}
