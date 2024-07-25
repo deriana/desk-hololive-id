@@ -1,4 +1,4 @@
-import React from 'react';
+import React from "react";
 import "./slider.css";
 import hololiveData from "./assets/chara.json";
 
